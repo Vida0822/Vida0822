@@ -10,8 +10,8 @@
 
 ## :pushpin: Contact
 - 이메일: sinhimin11@naver.com
-- 블로그: 
-- 깃헙: 
+- 블로그: https://vida0822.github.io/
+- 깃헙:https://github.com/Vida0822
 
 </br>
 
