@@ -3,11 +3,6 @@
 
 </br>
 
-## :pushpin: Intro
-
-
-</br>
-
 ## :pushpin: Contact
 - 이메일: sinhimin11@naver.com
 - 블로그: https://vida0822.github.io/
