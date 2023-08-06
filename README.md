@@ -1,10 +1,10 @@
 # 신희민 포트폴리오 
->캐치 프레이즈
+> 
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+
 
 </br>
 
@@ -16,36 +16,52 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [Tumblbug Spring Security](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
+> Spring Security를 활용한 기존 jsp프로젝트(텀블벅) 컨벌팅 
+> 개인 프로젝트
+> 개발 기간: 2023 6월 21일 ~ 7월 11일 (21일)  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+> Java 11 / Spring Framework / Spring Security / Maven / Oracle / Tomcat / Git / AWS
+> html / css / java script / jquery / jsp   
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Vida0822/Tumblbug_Spring-Security-Project) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [Tumblbug JSP Project](https://github.com/Vida0822/Tumblbug_JSP_Project)
+> 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현 
+> 팀 프로젝트 (7인)
+> 개발 기간: 2023 5월 21일 ~ 6월 19일 (28일)
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>Java 11 / Oracle / Tomcat   
+> html / css / java script / jquery / jsp 
+>
+>맡은 역할: 테크 리더 
+>[프로젝트 상세 설명](https://github.com/Vida0822/Tumblbug_JSP_Project) 참고
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
+### 3. [Oracle PLSQL Project](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project)
+> Oracle의 PLSQL(Procedure)을 활용한 에어비엔비 기능 구현 (데이터베이스 기반 프로그래밍)
+> 팀 프로젝트 (7인)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+> Oracle / PL/SQL / SQL Developer  
+>
+> 맡은 역할: 기획 및 개발 팀원 
+>[프로젝트 상세 설명](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project) 참고
+
+---
+
+### 4. [JAVA interface Project](https://github.com/Vida0822/TennisCounter_Java-Interface-Project)
+> Java의 interface 개념을 활용한 테니스 계수기 구현과 파일 출력기능
+> 팀 프로젝트 (7인)  
+> 개발 기간: 2023 3월 5일 ~ 3월 10일 (6일) 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+> 기술 스택: Java 11 
+>
+> 맡은 역할: 기획 및 개발 팀원 
+>[프로젝트 상세 설명](https://github.com/Vida0822/TennisCounter_Java-Interface-Project) 참고
