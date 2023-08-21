@@ -11,7 +11,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. 모델 2방식 웹 MVC 구현 : [고전 jsp](https://github.com/Vida0822/Tumblbug_JSP_Project)  vs [Spring Framework 활용](https://github.com/Vida0822/Tumblbug_Spring-Security-Project) 
+### 1. 모델 2방식 웹 MVC 구현 : 고전 jsp vs Spring Framework 
 
 #### ㄱ.  [Tumblbug JSP Project](https://github.com/Vida0822/Tumblbug_JSP_Project)
 > 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현  </br> </br>
