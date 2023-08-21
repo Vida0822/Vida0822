@@ -43,7 +43,7 @@
 ### 2. [Oracle PLSQL Project](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project)
 > Oracle의 PLSQL(Procedure)을 활용한 에어비엔비 기능 구현 (데이터베이스 기반 프로그래밍) </br> </br>
 > 팀 프로젝트 (7인)   </br>
->개발 기간: 2018.1.18 ~ 2018.4.5   </br>
+>개발 기간: 2023.03.31 ~ 2023.04.10 (10일)  </br>
 >  
 >기술 스택:   </br>
 > Oracle / PL/SQL / SQL Developer   </br>
@@ -53,12 +53,12 @@
 
 ---
 
-### 3. [Oracle PLSQL Project](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project)
-> Oracle의 PLSQL(Procedure)을 활용한 에어비엔비 기능 구현 (데이터베이스 기반 프로그래밍) </br> </br>
+### 3. [Survey_DBModeling](https://github.com/Vida0822/Survey_DBModeling)
+>  설문조사 시스템_db모델링 실습 (요구분석, 논리적 모델링, 물리적 모델링) </br> </br>
 > 팀 프로젝트 (7인)   </br>
->개발 기간: 2018.1.18 ~ 2018.4.5   </br>
+> 개발 기간: 2023.03.29 ~ 2023.03.30 (2일)  </br>
 >  
->기술 스택:   </br>
+> 기술 스택:   </br>
 > Oracle / PL/SQL / SQL Developer   </br>
 >
 > 맡은 역할: 기획 및 개발 팀원  </br>
@@ -69,7 +69,7 @@
 ### 4. [JAVA interface Project](https://github.com/Vida0822/TennisCounter_Java-Interface-Project)
 > Java의 interface 개념을 활용한 테니스 계수기 구현과 파일 출력기능 </br> </br>
 > 팀 프로젝트 (7인)   </br>
-> 개발 기간: 2023 3월 5일 ~ 3월 10일 (6일)  </br>
+> 개발 기간: 2023 03.05 ~ 2023.03.10 (6일)  </br>
 >  
 > 기술 스택: Java 11  </br>
 >
