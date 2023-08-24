@@ -2,6 +2,10 @@
 > 
 
 </br>
+## :pushpin: Intro
+AWS 클라우드를 활용한 자바(JAVA) Full-Stack 개발자 
+
+</br>
 
 ## :pushpin: Contact
 - 이메일: sinhimin11@naver.com
