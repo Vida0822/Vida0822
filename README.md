@@ -26,7 +26,7 @@
 >[프로젝트 상세 설명](https://github.com/Vida0822/Tumblbug_JSP_Project) 참고 </br>
 
 #### ㄴ. [Tumblbug Spring Security](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
-> Spring Security를 활용한 기존 jsp프로젝트(텀블벅) 컨벌팅  </br> </br>
+> Spring Security를 활용한 기존 jsp프로젝트(텀블벅) 컨벌팅 프로젝트  </br> </br>
 > 팀 프로젝트 (7인) </br>
 > 개발 기간: 2023 6월 21일 ~ 7월 11일 (21일)   </br>
 >  
