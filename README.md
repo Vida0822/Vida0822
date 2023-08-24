@@ -11,7 +11,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. DispatcherServlet 직접구현 vs Spring Framework
+### 1. DispatcherServlet 직접구현 vs Spring 프레임워크
 
 #### ㄱ.  [Tumblbug JSP Project](https://github.com/Vida0822/Tumblbug_JSP_Project)
 > 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현  </br> </br>
