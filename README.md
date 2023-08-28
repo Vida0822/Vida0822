@@ -19,7 +19,7 @@ AWS 클라우드를 활용한 자바(JAVA) Full-Stack 개발자
 ### 1. DispatcherServlet 직접구현 vs Spring 프레임워크
 
 #### ㄱ.  [Tumblbug JSP Project](https://github.com/Vida0822/Tumblbug_JSP_Project)
-> 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현  </br> </br>
+> 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 기능 구현  </br> </br>
 > 팀 프로젝트 (7인) </br>
 > 개발 기간: 2023 5월 21일 ~ 6월 19일 (28일) </br>
 >  
