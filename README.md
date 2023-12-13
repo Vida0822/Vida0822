@@ -19,6 +19,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 - 한국외국어대학교 (재학) : 노어과 / 국제 통상학과
 - K-Digital Training : 쌍용 교육 센터 '자바 Full-Stack 개발자' 과정 수료 
 
+</br>
 
 
 ## :pushpin: Projects
