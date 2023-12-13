@@ -1,6 +1,7 @@
 # 신희민 포트폴리오 
 > 
-<img size="100">(https://github.com/Vida0822/Vida0822/assets/132312673/35bd843f-bc7c-4eaf-a960-22ec19fa8f48)</img>
+<img src="https://github.com/Vida0822/Vida0822/assets/132312673/35bd843f-bc7c-4eaf-a960-22ec19fa8f48" alt="이미지 설명" width="100">
+
 
 </br>
 
