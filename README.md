@@ -1,6 +1,5 @@
 # 신희민 포트폴리오 
 > 
-![KakaoTalk_20231213_223907657](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/cf059f59-957b-486a-aa8c-abf7e1bb81a2)
 
 
 </br>
