@@ -1,6 +1,6 @@
 # 신희민 포트폴리오 
 > 
-<img src="https://github.com/Vida0822/Vida0822/assets/132312673/35bd843f-bc7c-4eaf-a960-22ec19fa8f48" alt="이미지 설명" width="300">
+![KakaoTalk_20231213_223907657](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/cf059f59-957b-486a-aa8c-abf7e1bb81a2)
 
 
 </br>
