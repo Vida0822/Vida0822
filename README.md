@@ -22,6 +22,10 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 
 </br>
 
+## :pushpin: 자격증
+- SQL 개발자 (sqld) - 2023/12/08 ~  
+
+</br>
 
 ## :pushpin: Projects
 ### 1. 크라우드 펀딩 사이트 '텀블벅' 기능 구현 
