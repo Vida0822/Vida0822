@@ -30,7 +30,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 ## :pushpin: Projects
 ### 1. 크라우드 펀딩 사이트 '텀블벅' 기능 구현 
 
-#### ㄱ. [프로젝트 1:DispatcherServlet 직접구현](https://github.com/Vida0822/Tumblbug_JSP_Project)
+#### ㄱ. [프로젝트 1 : DispatcherServlet 직접구현](https://github.com/Vida0822/Tumblbug_JSP_Project)
 > 크라우드 펀딩 사이트 '텀블벅' 기능 구현 - DispatcherServlet을 직접 제작한 모델 2방식(MVC)   </br> </br>
 > 팀 프로젝트 (7인) </br>
 > 개발 기간: 2023 5월 21일 ~ 6월 19일 (28일) </br>
@@ -42,7 +42,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 >맡은 역할: 테크 리더  </br>
 >[프로젝트 상세 설명](https://github.com/Vida0822/Tumblbug_JSP_Project) 참고 </br>
 
-#### ㄴ. [프로젝트 2: Spring 프레임워크 활용](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
+#### ㄴ. [프로젝트 2 : Spring 프레임워크 활용](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
 > 크라우드 펀딩 사이트 '텀블벅' 기능 구현 - Spring Security를 활용한 기존 jsp프로젝트 컨벌팅 프로젝트  </br> </br>
 > 팀 프로젝트 (7인) </br>
 > 개발 기간: 2023 6월 21일 ~ 7월 11일 (21일)   </br>
