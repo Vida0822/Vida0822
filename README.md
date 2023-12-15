@@ -36,7 +36,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 </br>
 
 ## :pushpin: Projects
-### 1. 크라우드 펀딩 사이트 '텀블벅' 기능 구현 
+### 1. 크라우드 펀딩 사이트 '텀블벅' API 개발
 
 #### ㄱ. [프로젝트 1 : DispatcherServlet 직접구현](https://github.com/Vida0822/Tumblbug_JSP_Project)
 > 크라우드 펀딩 사이트 '텀블벅' 기능 구현 - DispatcherServlet을 직접 제작한 모델 2방식(MVC)   </br> </br>
@@ -65,7 +65,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 ---
 
 
-### 2. [에어비엔비 기능 구현](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project)
+### 2. [세계 숙박 업소 사이트 '에어비엔비' API 개발](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project)
 > Oracle의 PLSQL(Procedure)을 활용한 에어비엔비 기능 구현 (데이터베이스 기반 프로그래밍) </br> </br>
 > 팀 프로젝트 (7인)   </br>
 >개발 기간: 2023.03.31 ~ 2023.04.10 (10일)  </br>
