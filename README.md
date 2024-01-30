@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m HeeminSHIN
-🖥️ BackEnd Developer
+* 🖥️ BackEnd Developer
 
-🎓 I majored in Software Engineering & Russian Language 
+* 🎓 I majored in Software Engineering & Russian Language 
 
 
 ⚒️ Skills
