@@ -9,3 +9,7 @@
 * DB & Sever : MySQL | OracleDB | NGINX | Apche Tomcat
 * DevOps & Environments : Gradle | Git, Github | AWS | Linux
 * Test : Junit5 
+
+#### ☑ Portfolio
+* Projects : https://github.com/Vida0822/portfolio?tab=readme-ov-file#%EC%8B%A0%ED%9D%AC%EB%AF%BC-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4
+* Tech Blog : https://vida0822.github.io/
