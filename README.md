@@ -7,7 +7,7 @@
 ### ⚒️ Skills
 * Backend : Java | Spring, SpringBoot | Python | R
 * Frontend : HTML | CSS | JavaScript | JQuery
-* DB & Sever : MySQL | OracleDB | NGINX | Apche Tomcat
+* DB & Sever : MySQL | OracleDB | RDS | NGINX | Apche Tomcat
 * DevOps & Environments : Gradle | Git, Github | AWS | Linux
 * Test : Junit5 
 
