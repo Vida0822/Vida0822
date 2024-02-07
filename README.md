@@ -5,7 +5,7 @@
 
 
 ### ⚒️ Skills
-* Language & Framework : Java | Spring, SpringBoot | JavaScript | Phython | R 
+* Language & Framework : Java | Spring, SpringBoot | JavaScript  | R 
 * DB & Sever : MySQL | OracleDB | NGINX | Apche Tomcat
 * DevOps & Environments : Gradle | Git, Github | AWS | Linux
 * Test : Junit5 
