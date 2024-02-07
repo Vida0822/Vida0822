@@ -1,11 +1,12 @@
 ### 👋 Hi, I’m HeeminSHIN
-* 🖥️ BackEnd Developer
+* 🖥️ Full Stack Developer
 
 * 🎓 I majored in Software Engineering & Russian Language 
 
 
 ### ⚒️ Skills
-* Language & Framework : Java | Spring, SpringBoot | JavaScript  | R 
+* Backend : Java | Spring, SpringBoot | Python | R
+* Frontend : HTML | CSS | JavaScript | JQuery
 * DB & Sever : MySQL | OracleDB | NGINX | Apche Tomcat
 * DevOps & Environments : Gradle | Git, Github | AWS | Linux
 * Test : Junit5 
