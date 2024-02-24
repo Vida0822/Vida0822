@@ -1,7 +1,9 @@
 ### 👋 Hi, I’m HeeminSHIN
 * 🖥️ Full Stack Developer
 
-* 🎓 I majored in Software Engineering & Russian Language 
+* 🎓 I studied in HUFS (HANKUK UNIVERSITY OF FOREIGN STUDIES, Seoul) 
+
+* 📃 I majored in Software Engineering & Russian Language 
 
 
 ### ⚒️ Skills
