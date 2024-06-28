@@ -11,7 +11,7 @@
 * Frontend : HTML | CSS | JavaScript | JQuery
 * DB/ORM : MySQL | Oracle | RDS | MyBatis | JPA 
 * DevOps/Environments : Apche Tomcat | Maven | Gradle | AWS | Linux | NGINX
-* Data/AI : gretl | sklearn | pandas
+* Data/AI : gretl | numpy | sklearn | pandas
 * Test : JUnit5 | Selenium
 
 ### ☑ Portfolio
