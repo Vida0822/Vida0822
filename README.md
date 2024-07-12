@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m HeeminSHIN
-* 🖥️ Full Stack Developer
+* 🖥️ Full Backend/Data Developer
 
 * 🎓 I studied in HUFS (HANKUK UNIVERSITY OF FOREIGN STUDIES, Seoul) 
 
@@ -8,7 +8,7 @@
 
 ### ⚒️ Skills
 * Backend : Java | Spring Legacy | Spring Boot | Python | Django | C++
-* Frontend : HTML | CSS | JavaScript | JQuery
+* Frontend(Basic) : HTML | CSS | JavaScript | JQuery
 * DB/ORM : MySQL | Oracle | RDS | MyBatis | JPA 
 * DevOps/Environments : Apche Tomcat | Maven | Gradle | AWS | Linux | NGINX
 * Data/AI : R | gretl | numpy | sklearn | pandas
