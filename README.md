@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m HeeminSHIN
-* 🖥️ Full Backend/Data Developer
+* 🖥️ Full Backend/Data Engineer
 
 * 🎓 I studied in HUFS (HANKUK UNIVERSITY OF FOREIGN STUDIES, Seoul) 
 
