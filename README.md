@@ -10,7 +10,7 @@
 * Backend : Java | Spring Legacy | Spring Boot | Python | Django | C++
 * Frontend : HTML | CSS | JavaScript | JQuery
 * DB/ORM : MySQL | Oracle | RDS | MyBatis | JPA 
-* DevOps/Environments : Apche Tomcat | Maven | Gradle | AWS | Linux | NGINX
+* DevOps/Environments : Apche Tomcat | Maven | Gradle | AWS | Linux 
 * Data/AI : R | gretl | numpy | sklearn | pandas
 * Test : JUnit5 | scapy | TestLink
 
