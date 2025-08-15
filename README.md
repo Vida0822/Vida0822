@@ -3,7 +3,7 @@
 
 * 🎓 I studied in HUFS (HANKUK UNIVERSITY OF FOREIGN STUDIES, Seoul) 
 
-* 📃 I majored in Software Engineering & Russian Language 
+* 📃 I majored in Russian Language 
 
 
 ### ⚒️ Skills
