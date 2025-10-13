@@ -9,9 +9,9 @@
 ### ⚒️ Skills
 * Backend : Java | Spring Legacy | Spring Boot | Python 
 * Frontend : HTML | CSS | JavaScript | JSP | JQuery
-* DB/ORM : MySQL | Oracle | MyBatis | JPA 
+* DB/ORM : MySQL | Oracle | MyBatis | JPA | MyBatis
 * DevOps/Environments : AWS | Linux | Docker 
-* Data/AI : R | gretl | numpy | sklearn
+* Data/AI : R | gretl | numpy | sklearn 
 * Test : JUnit5 | TestLink
 
 ### ☑ Portfolio
