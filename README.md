@@ -7,8 +7,9 @@
 
 
 ### ⚒️ Skills
-* Backend : Java | Spring Legacy | Spring Boot | Python | Django 
-* Frontend : HTML | CSS | JavaScript | JSP | JQuery | React
+* Language : Java | C | C++ | Python
+* Backend : Spring | Django 
+* Frontend : HTML & CSS & JavaScript | JSP | JQuery | React
 * DB/ORM : MySQL | Oracle | MyBatis | JPA
 * DevOps/Environments : AWS | Linux | Docker 
 * Data/AI : R | gretl | numpy | sklearn 
