@@ -16,4 +16,4 @@
 * Test : JUnit5 | TestLink
 
 ### ☑ Portfolio
-[IT/개발노트](https://vida0822.github.io/)
+* [IT/개발노트](https://vida0822.github.io/)
